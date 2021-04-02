@@ -1,1 +1,3 @@
-# to_do_list
+# To Do List 
+To Do List на JS, данные храняться в Local Storage
+
